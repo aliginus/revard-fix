@@ -1,0 +1,1 @@
+{"blt_version":2,"hooks":[{"hook_id":"lib\/tweak_data\/crimespreetweakdata","script_path":"ncsl.lua"}],"contact":"none","priority":99,"version":"","description":"New crimespree starting levels","name":"ncsl","author":"fix zadiraka zeis"}
